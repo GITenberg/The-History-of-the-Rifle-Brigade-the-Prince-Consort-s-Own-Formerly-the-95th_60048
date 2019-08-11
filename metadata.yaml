@@ -1,0 +1,26 @@
+_repo: The-History-of-the-Rifle-Brigade-the-Prince-Consort-s-Own-Formerly-the-95th_60048
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cope, William Henry
+    alias: Cope, William Henry, Sir, bart.
+    birthdate: 1811
+    deathdate: 1892
+    gutenberg_agent_id: '50761'
+    url: http://www.gutenberg.org/2009/agents/50761
+description: ''
+gutenberg_issued: '2019-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60048'
+  lccn: '43033839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UA'
+- !lcsh 'Great Britain. Army. Rifle Brigade (Prince Consort''s Own)'
+- GITenberg
+title: The History of the Rifle Brigade (the Prince Consort's Own) Formerly the 95th
+url: http://www.gutenberg.org/ebooks/60048
